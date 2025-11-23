@@ -3,3 +3,4 @@ uvicorn
 feedparser
 requests
 python-dateutil
+python-multipart
