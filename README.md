@@ -8,10 +8,14 @@ the latest security developments, offering a fast, distraction-free way to track
 ## 🚀 Features
 
 | Feature | Description |
-|---------|-------------|
-| 🔄 Auto-refresh | Fetches new intel every 60s (manual refresh also available) |
-| 📌 Categorized feeds | News grouped by threat type (Ransomware, APT, etc.) |
-| 🔍 Live filter | Search within title, summary & source instantly |
+|--------|-------------|
+| 🧠 **Live Tiles** | Every feed item is normalized into an aesthetic, readable tile. |
+| 👤 **User Accounts** | Register, log in, update profile, and logout. |
+| ✉️ **Email Notifications** | Welcome email + new-intel alerts. |
+| 🎨 **Redesigned UI** | Neon gradient theme, hover animations, responsive grid layout. |
+| 🔥 **Unified Threat Wall** | Instead of multiple tabs, all relevant intel appears in a clean grid. |
+| 🚀 **Background Auto-Refresh** | Backend updates every 10 minutes with new threat info. |
+| 🧵 **FastAPI Backend** | High-performance async architecture and caching. |
 
 ---
 
